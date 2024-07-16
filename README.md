@@ -1,3 +1,7 @@
+Nama : M.Rahmat Hidayat Syachrudin
+StudentID: JCDS2504005
+ClassCode : JCDS - 2504
+
 # Program Manajemen Inventaris Obat PBF [PEDAGANG BESAR FARMASI] PT. PURWA
 
 Program ini adalah sistem manajemen inventaris untuk PBF [PEDAGANG BESAR FARMASI] PT. PURWA, yang memungkinkan pengguna untuk menambahkan, memperbarui, menghapus, dan menjual item obat dalam inventaris. Program ini diperuntukan untuk admin/APJ (apoteker penanggung jawab) serta petugas TTK (tenagakerja teknis kefarmasian) dalam mengatur inventaris produk yg di jual di PBF.
